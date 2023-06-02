@@ -1,0 +1,29 @@
+/* add your css here */
+html{
+    background-color: cadetblue;
+}
+body{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    
+    background-color: lightgray;
+}
+h3{
+    background-color: yellow;
+    border: dashed 2px red;
+    padding: 12px;
+}
+img{
+    width: 25%;
+    /* float: left; */
+}
+
+.img4{
+    margin-left: 2%;
+}
+.img6{
+    display: block;
+margin-left: 38%;
+
+}
